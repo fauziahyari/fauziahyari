@@ -1,6 +1,6 @@
 👋 Hi, I’m @fauziahyari
 
-👀 I’m interested in cyber security
+👀 I’m interested in data science
 
 🌱 I’m currently learning STT Cipasung
 
